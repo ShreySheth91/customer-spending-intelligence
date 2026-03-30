@@ -1,0 +1,41 @@
+{
+  "fraud_features": [
+    "log_amt",
+    "amt_z_customer",
+    "hour",
+    "hour_sin",
+    "hour_cos",
+    "dow",
+    "month",
+    "is_weekend",
+    "is_night",
+    "distance_km",
+    "age",
+    "gender_enc",
+    "city_pop",
+    "category_enc",
+    "cluster"
+  ],
+  "clv_features": [
+    "recency",
+    "frequency",
+    "avg_txn_amt",
+    "max_txn_amt",
+    "std_txn_amt",
+    "night_txn_pct",
+    "weekend_txn_pct",
+    "unique_merchants",
+    "unique_states",
+    "unique_categories",
+    "avg_distance_km",
+    "customer_age",
+    "city_pop",
+    "cluster",
+    "fraud_flag"
+  ],
+  "fraud_threshold": 0.44875386357307434,
+  "fraud_pr_auc": 0.9496923914143418,
+  "fraud_roc_auc": 0.9988310850111504,
+  "clv_r2": 0.9966747556862396,
+  "clv_mae": 1586.4691252024554
+}
