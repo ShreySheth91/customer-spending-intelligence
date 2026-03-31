@@ -172,3 +172,4 @@ streamlit run app.py
 
 Shrey Sheth — MS Computer Science (Data Science & AI), Pace University  
 [GitHub](https://github.com/ShreySheth91)
+[LinkedIn](https://www.linkedin.com/in/shreysheth91/)
